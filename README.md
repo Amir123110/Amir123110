@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Amir123110
+- 👀 I’m interested in web devolpment
+- 🌱 I’m currently learning javascript
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: still pretty young for anything big
